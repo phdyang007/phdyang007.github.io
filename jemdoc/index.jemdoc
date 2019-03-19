@@ -1,0 +1,78 @@
+# jemdoc: addcss{css/jemdoc.css}
+## jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Haoyu Yang@CUHK-CSE}
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{img/img.jpg}{}{150}{}{}
+= Haoyu Yang
+
+Ph.D Candidate                                                              \n
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk The Chinese University of Hong Kong]                \n
+
+*E-mail:* hyyang\[at\]cse.cuhk.edu.hk                \n
+*Office:* Rm913, Ho Sin Hang Engineering Building                             \n
+何故ベストを尽くさないのか  \n
+~~~
+
+== About
+
+I'm currently a year-3 PhD student working with Prof.~[http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]. 
+Before joining CUHK, I received my Bachelor Degree of Integrated Circuit Design and Integrated Systems from
+[http://www.tju.edu.cn Tianjin University].
+My research interests
+include VLSI CAD, Design for Manufacturability and Deep Learning. \[[http://appsrv.cse.cuhk.edu.hk/~hyyang/files/cv.pdf My Resume]\] \[[https://scholar.google.com.hk/citations?user=aTJ0RJUAAAAJ&hl=en Google Scholar]\]
+
+== Teaching
+
+- 2019Spring: CENG3420
+- 2018Spring: CENG3420
+- 2017Fall: CSCI0000
+- 2017Spring: CENG3420
+- 2016Fall: CENG4480
+ 
+== Paper Review/External Review
+
+- Elsevier Signal Processing
+- International Journal of Machine Learning and Cybernetics (JMLC)
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+- ACM Great Lakes Symposium on VLSI (GLSVLSI)
+- IEEE Transactions on Sustainable Computing (TSUSC)
+- IET Cyber-Physical Systems: Theory & Applications
+- IEEE ACCESS
+- ACM/IEEE Design Automation Conference (DAC)
+
+== News
+~~~  
+- 28-02-2019: I am awarded the 2019 Nick Cobb Memorial Scholarship by SPIE and Mentor Graphics
+  ([http://spie.org/about-spie/press-room/press-releases/haoyu-yang-receives-inaugural-nick-cobb-memorial-scholarship SPIE-News])
+  ([http://www.cse.cuhk.edu.hk/en/achievement/student/1237-mr-haoyu-yang-awarded-the-2019-nick-cobb-memorial-scholarship CUHK-News])
+- 22-01-2019: I received the best poster award in Student Research Forum in ASPDAC 2019
+  ([http://www.aspdac.com/aspdac2019/photo/p_srf Photos])
+- 08-07-2018: Start summer intern at Cadence Design Systems Inc, San Jose, CA
+- 28-06-2018: Our [http://appsrv.cse.cuhk.edu.hk/~hyyang/files/DAC18-CNN-OPC.pdf paper] was presented in the 55th Design Automation Conference, San Francisco, CA
+- 04-09-2017: Start intern at ASML Brion, San Jose, CA
+- 21-06-2017: One paper was presented in the 54th Design Automation Conference, Austin, TX
+- 01-03-2017: One paper was presented in the SPIE Advanced Lithography Conference, San Jose, CA
+~~~
+
+== Experience
+
+=== Cadence Design Systems, CA, USA
+
+- Software Engineering Intern
+
+- July 2018 -- Oct 2018
+
+=== ASML Brion, CA, USA
+
+- Data Scientist Intern
+
+- Sept 2017 -- Nov 2017
+
+=== The Chinese University of Hong Kong, Hong Kong SAR
+
+- Research Assistant
+
+- March 2016 -- July 2016, Hong Kong SAR

@@ -1,0 +1,13 @@
+
+body{
+   min-width:840px;
+   max-width:1040px;
+   text-align:center; /*For IE6 Shenanigans*/
+   margin-left:auto;
+   margin-right:auto;
+}
+
+table#middle{
+    margin-left:auto;
+    margin-right:auto;
+}

@@ -1,0 +1,59 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Projects}
+
+= VLSI Hotspot Detection: A Deep Learning Approach
+
+This page is still under construction...
+
+The project is developed by [http://appsrv.cse.cuhk.edu.hk/~hyyang Haoyu Yang], [http://www.cse.cuhk.edu.hk/~byu Bei Yu] and [http://www.cse.cuhk.edu.hk/~fyyoung Evangeline Young],
+please contact [mailto:hyyang@cse.cuhk.edu.hk us] for bug reports and comments.
+#~~~
+#{}{img_left}{img/arch.png}{}{700}{}{}
+#~~~
+
+== Introduction
+
+As the manufacturing technology node of integrated circuit advances to 10nm, there is a large
+mismatch between lithography wavelength and circuit feature size, which induces diffraction when
+transferring layout patterns from designed mask onto silicon wafer. As a result, open or short
+circuits are more likely to be generated from some layout regions (a. k. a. hotspots) if diffraction
+caused manufacturing variantion exceeds design constraints.
+
+Lithographic simulation offers reliable results to estimate the printablity of mask layout. However, 
+it is extensively time consuming. To speed up the estimation process while attain a high detection accuracy, 
+several methodologies have been expolored in literature. Pattern matching method
+can fast and accurately predict hotspot patterns but may suffer performance degradation for unseen
+patterns. Conventional machine learning methods, which is able to learn the beneath
+relations between layout feature and their attribute, have shown great advantage over pattern matching methods.
+
+There are two main drawbacks of conventional machine learning
+methods: (1) Mask layout suffers information loss in feature crafting phase and (2) conventional
+machine learning model cannot handle ultra-large-scale layout datasets.
+
+We develop a deep learning-based hotspot detector to reslove these problems and conduct hotspot detection tasks efficiently.
+
+== SPIE2017
+
+Haoyu Yang, Luyang Luo, Jing Su, Chenxi Lin and Bei Yu,
+  "Imbalance Aware Lithography Hotspot Detection: A Deep Learning Approach",
+  SPIE Intl. Symp. Advanced Lithography Conference, San Jose, CA, Feb. 26--Mar. 2, 2017.
+
+=== Code/Scripts
+Appear soon...
+=== Benchmarks
+Appear soon...
+=== Results
+Appear soon...
+== DAC2017
+
+Haoyu Yang, Jing Su, Yi Zou, Bei Yu and Evangeline F. Y. Young,
+  "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning",
+  accepted by ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, June 3--7, 2017.
+
+=== Code/Scripts
+Appear soon...
+=== Benchmarks
+Appear soon...
+=== Results
+Appear soon...
