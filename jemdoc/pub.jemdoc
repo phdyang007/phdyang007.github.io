@@ -16,44 +16,47 @@
 - \[J\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra and Bei Yu,
   "SRAF Insertion via Supervised Dictionary Learning",
   submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+
 === Journal Papers
-
-
-#- \[C\] Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu,
-#  "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning",
-#  arXiv:1807.06446. \[[https://arxiv.org/abs/1807.06446 paper]\]
-
-
 
 - \[J3\] *Haoyu Yang*, Jing Su, Yi Zou, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, 
   "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning", 
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD),
   vol.38, no.6, pp.1175-1187, 2019.
-  \[[http://appsrv.cse.cuhk.edu.hk/~hyyang/files/TCAD-CNN-HSD.pdf paper]\] \[[https://github.com/phdyang007/dlhsd code]\]
+  \[[https://github.com/phdyang007/papers/raw/master/J3.pdf paper]\]  \[[https://github.com/phdyang007/dlhsd code]\]
 
 - \[J2\] *Haoyu Yang*, Luyang Luo, Jing Su, Chenxi Lin and Bei Yu, 
   "Imbalance Aware Lithography Hotspot Detection: A Deep Learning Approach",
   Journal of Micro\/Nanolithography, MEMS, and MOEMS (JM3), 16 (3), 033504, 2017.
-  \[[http://appsrv.cse.cuhk.edu.hk/~hyyang/files/JM3_CNN.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/J2.pdf paper]\] 
 
 - \[J1\] Zaifeng Shi, *Haoyu Yang*, Wenxiang Cong and Ge Wang,
   "An Edge-on Charge-transfer Design for Eenergy-resolved X-ray Detection",
   Physics in Medicine and Biology (*PMB*), 61 (11), 4183-4200, 2016.
+  \[[https://github.com/phdyang007/papers/raw/master/J1.pdf paper]\] 
 
 === Conference Papers
 
 - \[C12\] Haocheng Li, Satwik Patnaik, Abhrajit Sengupta, *Haoyu Yang*, Johann Knechtel, Bei Yu, Evangeline F.Y. Young, Ozgur Sinanoglu,
   "Attacking Split Manufacturing from a Deep Learning Perspective",
    ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2–6, 2019.
-
+  \[[https://github.com/phdyang007/papers/raw/master/C12.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C12S-n.pdf slides]\]
+  \[[https://github.com/phdyang007/papers/raw/master/C12P-n.pdf poster]\]
 
 - \[C11\] Ran Chen, Wei Zhong, *Haoyu Yang*, Hao Geng, Xuan Zeng, Bei Yu, 
   "Faster Region-based Hotspot Detection", 
    ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2–6, 2019.
+  \[[https://github.com/phdyang007/papers/raw/master/C11.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C11S-n.pdf slides]\]
+  \[[https://github.com/phdyang007/papers/raw/master/C11P-n.pdf poster]\]
 
 - \[C10\] *Haoyu Yang*, Piyush Pathak, Frank Gennari, Ya-Chieh Lai and Bei Yu,
   "DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder", 
    ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2–6, 2019.
+  \[[https://github.com/phdyang007/papers/raw/master/C10.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C10S-n.pdf slides]\]
+  \[[https://github.com/phdyang007/papers/raw/master/C10P-n.pdf poster]\]
 
 - \[C9\] *Haoyu Yang*, Piyush Pathak, Frank Gennari, Ya-Chieh Lai and Bei Yu,
   "Hotspot Detection Using Squish-net",
@@ -62,28 +65,39 @@
 - \[C8\] *Haoyu Yang*, Piyush Pathak, Frank Gennari, Ya-Chieh Lai and Bei Yu,
   "Detecting Multi-Layer Layout Hotspots with Adaptive Squish Patterns",
    IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan 21-24, 2019.
+   \[[https://github.com/phdyang007/papers/raw/master/C8.pdf paper]\]
+   \[[https://github.com/phdyang007/papers/raw/master/C8S.pdf slides]\]
 
 - \[C7\] Hao Geng, *Haoyu Yang*, Yuzhe Ma, Joydeep Mitra and Bei Yu,
   "SRAF Insertion via Supervised Dictionary Learning",
    IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan 21-24, 2019. (*Best Paper Award Nomination*)
+   \[[https://github.com/phdyang007/papers/raw/master/C7.pdf paper]\]
+   \[[https://github.com/phdyang007/papers/raw/master/C7S.pdf slides]\]
 
 - \[C6\] Hao Geng, *Haoyu Yang*, Xuan Zeng and Bei Yu,
   "Sparse VLSI Layout Feature Extraction: A Dictionary Learning Approach",
    IEEE Computer Society Annual Symposium on VLSI, Hong Kong, China, July 9–11, 2018.
+   \[[https://github.com/phdyang007/papers/raw/master/C6.pdf paper]\]
 
 - \[C5\] *Haoyu Yang*, Shuhe Li, Yuzhe Ma, Bei Yu and Evangeline F. Y. Young,
   "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets",
    ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, June 24–28, 2018.
-   \[[http://appsrv.cse.cuhk.edu.hk/~hyyang/files/DAC18-CNN-OPC.pdf paper]\] \[[code]\]
+  \[[https://github.com/phdyang007/papers/raw/master/C5.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C5S.pdf slides]\]
+  \[[https://github.com/phdyang007/papers/raw/master/C5P.pdf poster]\]
 
 - \[C4\] *Haoyu Yang*, Yajun Lin, Bei Yu and Evangeline F. Y. Young,
   "Lithography Hotspot Detection: From Shallow To Deep Learning",
   IEEE International System-on-Chip Conference (SOCC), Munich, Germany, September 5–8, 2017.
+  \[[https://github.com/phdyang007/papers/raw/master/C4.pdf paper]\]
   
 - \[C3\] *Haoyu Yang*, Jing Su, Yi Zou, Bei Yu and Evangeline F. Y. Young,
   "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning",
   ACM/IEEE Design Automation Conference (*DAC*), Austin, TX, June 18--22, 2017. 
-  \[[http://appsrv.cse.cuhk.edu.hk/~hyyang/files/DAC17_CNN-HSD.pdf paper]\] \[[https://github.com/phdyang007/dlhsd code]\]
+  \[[https://github.com/phdyang007/papers/raw/master/C3.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C3S.pdf slides]\]
+  \[[https://github.com/phdyang007/papers/raw/master/C3P.pdf poster]\]
+  \[[https://github.com/phdyang007/dlhsd code]\]
 
 
 - \[C2\] *Haoyu Yang*, Luyang Luo, Jing Su, Chenxi Lin and Bei Yu,
@@ -93,4 +107,5 @@
 - \[C1\] Hang Zhang, *Haoyu Yang*, Bei Yu and Evangeline F. Y. Young,
   "VLSI Layout Hotspot Detection Based on Discriminative Feature Extraction",
   IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Jeju, Oct. 25--28, 2016.
+  \[[https://github.com/phdyang007/papers/raw/master/C1.pdf paper]\]
 
