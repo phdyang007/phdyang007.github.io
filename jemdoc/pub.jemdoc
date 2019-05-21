@@ -27,7 +27,8 @@
 
 - \[J3\] *Haoyu Yang*, Jing Su, Yi Zou, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, 
   "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning", 
-  accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD),
+  vol.38, no.6, pp.1175-1187, 2019.
   \[[http://appsrv.cse.cuhk.edu.hk/~hyyang/files/TCAD-CNN-HSD.pdf paper]\] \[[https://github.com/phdyang007/dlhsd code]\]
 
 - \[J2\] *Haoyu Yang*, Luyang Luo, Jing Su, Chenxi Lin and Bei Yu, 
