@@ -4,6 +4,9 @@
 
 == Publications
 
+- \[J\] Kang Liu, Haoyu Yang, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg,
+  "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection",
+   submitted to ACM Transactions on Design Automation of Electronic Systems.
 
 - \[J\] Haoyu Yang, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu and Evangeline F. Y. Young,
   "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets",
