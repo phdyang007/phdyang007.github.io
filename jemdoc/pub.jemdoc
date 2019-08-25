@@ -8,10 +8,6 @@
   "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection",
    submitted to ACM Transactions on Design Automation of Electronic Systems.
 
-- \[J\] Haoyu Yang, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu and Evangeline F. Y. Young,
-  "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets",
-   submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
-
 - \[J\] Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu,
   "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning",
    submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
@@ -21,6 +17,11 @@
   submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
 
 === Journal Papers
+
+- \[J4\] Haoyu Yang, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu and Evangeline F. Y. Young,
+  "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets",
+   accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+   \[[https://github.com/phdyang007/papers/raw/master/J4.pdf paper]\]
 
 - \[J3\] *Haoyu Yang*, Jing Su, Yi Zou, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, 
   "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning", 
