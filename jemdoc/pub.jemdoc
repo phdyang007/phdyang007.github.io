@@ -12,11 +12,12 @@
   "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning",
    submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
 
-- \[J\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra and Bei Yu,
-  "SRAF Insertion via Supervised Dictionary Learning",
-  submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
-
 === Journal Papers
+
+- \[J5\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra and Bei Yu,
+  "SRAF Insertion via Supervised Dictionary Learning",
+  accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+  \[[https://github.com/phdyang007/papers/raw/master/J5.pdf paper]\]
 
 - \[J4\] *Haoyu Yang*, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu and Evangeline F. Y. Young,
   "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets",
