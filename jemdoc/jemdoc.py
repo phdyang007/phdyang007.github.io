@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """jemdoc version 0.7.3, 2012-11-27."""
 
 # Copyright (C) 2007-2012 Jacob Mattingley (jacobm@stanford.edu).
