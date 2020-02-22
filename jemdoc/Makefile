@@ -1,5 +1,5 @@
 all:
-	./jemdoc  -o ../ *.jemdoc
+	python jemdoc.py  -o ../ *.jemdoc
 
 clean:
 	rm ../*.html
