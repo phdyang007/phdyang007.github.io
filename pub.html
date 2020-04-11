@@ -9,6 +9,39 @@
 <title>Publications</title>
 </head>
 <body>
+<script>
+  /* 鼠标点击文字特效 */
+    var f_idx = 0;
+    var c_idx = 0;
+      jQuery(document).ready(function($) {
+          $("body").click(function(e) {
+              var font = new Array("富强", "民主", "文明", "和谐", "自由", "平等", "公正" ,"法治", "爱国", "敬业", "诚信", "滑稽");
+        var color = new Array('#ff0000','#eb4310','#f6941d','#fbb417','#ffff00','#cdd541','#99cc33','#3f9337','#219167','#239676','#24998d','#1f9baa','#0080ff','#3366cc','#333399','#003366','#800080','#a1488e','#c71585','#bd2158');
+              var $i = $("<span />").text(font[f_idx]);
+              f_idx = (f_idx + 1) % font.length;
+        c_idx = (c_idx + 1) % color.length;
+              var x = e.pageX,
+                  y = e.pageY;
+              $i.css({
+                  "z-index": 99999999999999999999999999999999999999999999999999999999999999999999999999 ,
+                  "top": y - 20,
+                  "left": x,
+                  "position": "absolute",
+                  "font-weight": "bold",
+                  "color": color[c_idx]
+              });
+              $("body").append($i);
+              $i.animate({
+                      "top": y - 180,
+                      "opacity": 0
+                  },
+                  1500,
+                  function() {
+                      $i.remove();
+                  });
+          });
+      });
+</script>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
@@ -18,6 +51,18 @@
 </td>
 <td id="layout-content">
 <h2>Publications</h2>
+<ul>
+<li><p>[J] Haoyu Yang, Shuhe Li, Wen Chen, Piyush Pathak, Frank Gennari, Ya-Chieh Lai, Bei Yu,
+&ldquo;DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder&rdquo;,
+submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.</p>
+</li>
+</ul>
+<ul>
+<li><p>[J] Haocheng Li, Satwik Patnaik, Mohammed Ashraf, Haoyu Yang, Johann Knechtel, Bei Yu, Ozgur Sinanoglu, Evangeline F. Y. Young,
+&ldquo;Deep Learning Analysis for Split Manufactured Layouts with Routing Perturbation&rdquo;,
+submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.</p>
+</li>
+</ul>
 <ul>
 <li><p>[J] Ran Chen, Wei Zhong, Haoyu Yang, Hao Geng, Fan Yang, Xuan Zeng, Bei Yu, 
 &ldquo;Faster Region-based Hotspot Detection&rdquo;, 
@@ -195,7 +240,7 @@ IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Jeju, Oct. 25&nda
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-02-22 11:10:12 HKT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2020-04-11 22:39:09 HKT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
