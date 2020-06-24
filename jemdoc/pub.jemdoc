@@ -16,15 +16,15 @@
   "Faster Region-based Hotspot Detection", 
    submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
 
-- \[J\] Kang Liu, Haoyu Yang, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg,
-  "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection",
-   submitted to ACM Transactions on Design Automation of Electronic Systems.
-
 - \[J\] Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu,
   "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning",
    submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
 
 === Journal Papers
+
+- \[J6\] Kang Liu, Haoyu Yang, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg,
+  "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection",
+   accepted by ACM Transactions on Design Automation of Electronic Systems.
 
 - \[J5\] Hao Geng, Wei Zhong, *Haoyu Yang*, Yuzhe Ma, Joydeep Mitra and Bei Yu,
   "SRAF Insertion via Supervised Dictionary Learning",
