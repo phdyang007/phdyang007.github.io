@@ -24,27 +24,27 @@
 
 - \[J7\] *Haoyu Yang*, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu,
   "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning",
-   accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+   accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
    \[[https://github.com/phdyang007/papers/raw/master/J7.pdf paper]\]
 
 - \[J6\] Kang Liu, *Haoyu Yang*, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg,
   "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection",
-   accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+   accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
   \[[https://github.com/phdyang007/papers/raw/master/J6.pdf paper]\]
 
 - \[J5\] Hao Geng, Wei Zhong, *Haoyu Yang*, Yuzhe Ma, Joydeep Mitra and Bei Yu,
   "SRAF Insertion via Supervised Dictionary Learning",
-  accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+  accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
   \[[https://github.com/phdyang007/papers/raw/master/J5.pdf paper]\]
 
 - \[J4\] *Haoyu Yang*, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu and Evangeline F. Y. Young,
   "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets",
-   accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+   accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
    \[[https://github.com/phdyang007/papers/raw/master/J4.pdf paper]\]
 
 - \[J3\] *Haoyu Yang*, Jing Su, Yi Zou, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, 
   "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning", 
-  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD),
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*),
   vol.38, no.6, pp.1175-1187, 2019.
   \[[https://github.com/phdyang007/papers/raw/master/J3.pdf paper]\]  \[[https://github.com/phdyang007/dlhsd code]\]
 
