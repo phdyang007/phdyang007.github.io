@@ -62,6 +62,12 @@
 
 === Conference Papers
 
+- \[C18\] *Haoyu Yang*, Shifan Zhang, Kang Liu, Siting Liu, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young,
+  "Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method",
+   IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan. 18–21, 2021.
+  \[[https://github.com/phdyang007/papers/raw/master/C18.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C18S.pdf slides]\]
+
 - \[C17\] Hao Geng, *Haoyu Yang*, Lu Zhang, Jin Miao, Fan Yang, Xuan Zeng, Bei Yu,
  "Hotspot Detection via Attention-based Deep Layout Metric Learning", 
  IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 2–5, 2020.
