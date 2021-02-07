@@ -19,6 +19,12 @@
 
 === Journal Papers
 
+- \[J11\] Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Zhaoyang Shen, 
+   Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai Zhong, Xuefei Ning, Yuzhe Ma, Haoyu Yang, Bei Yu, Huazhong Yang, Yu Wang, 
+   "Machine Learning for Electronic Design Automation: A Survey",
+   accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+   \[[https://github.com/phdyang007/papers/raw/master/J11.pdf paper]\] 
+
 - \[J10\] *Haoyu Yang*, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu,
   "VLSI Mask Optimization: From Shallow To Deep Learning",
    accepted by Integration, the VLSI Journal.
