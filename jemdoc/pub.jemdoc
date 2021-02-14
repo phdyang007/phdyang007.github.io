@@ -4,9 +4,7 @@
 
 == Publications
 
-##- \[J\] Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu Yang, Xiuyuan Ma, Bei Yu, 
-##  "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization",
-##   submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+
 ##
 ##- \[J\] Haoyu Yang, Shuhe Li, Wen Chen, Piyush Pathak, Frank Gennari, Ya-Chieh Lai, Bei Yu,
 ##  "DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder",
@@ -19,10 +17,15 @@
 
 === Journal Papers
 
+- \[J12\] Wei Zhong, Shuxiang Hu, Yuzhe Ma, *Haoyu Yang*, Xiuyuan Ma, Bei Yu, 
+  "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization",
+   accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+   \[[https://github.com/phdyang007/papers/raw/master/J12.pdf paper]\] 
+
 - \[J11\] Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Zhaoyang Shen, 
    Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai Zhong, Xuefei Ning, Yuzhe Ma, *Haoyu Yang*, Bei Yu, Huazhong Yang, Yu Wang, 
    "Machine Learning for Electronic Design Automation: A Survey",
-   accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+   accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
    \[[https://github.com/phdyang007/papers/raw/master/J11.pdf paper]\] 
 
 - \[J10\] *Haoyu Yang*, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu,
@@ -81,12 +84,26 @@
 
 === Conference Papers
 
+- \[C20\] Xiaopeng Zhang, *Haoyu Yang*, Evangeline F.Y. Young,
+  "Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method",
+   ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, July 11–15, 2021.
+  \[[https://github.com/phdyang007/papers/raw/master/C20.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C20S.pdf slides]\]
+  \[[https://github.com/phdyang007/xxx code]\]
+
+- \[C19\] Yifeng Xiao, Miaodi Su, *Haoyu Yang*, Jianli Chen, Jun Yu, Bei Yu,
+  "Low-Cost Lithography Hotspot Detection with Active Entropy Sampling and Model Calibration",
+   ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, July 11–15, 2021.
+  \[[https://github.com/phdyang007/papers/raw/master/C19.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C19S.pdf slides]\]
+
+
 - \[C18\] *Haoyu Yang*, Shifan Zhang, Kang Liu, Siting Liu, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young,
   "Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method",
    IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan. 18–21, 2021.
   \[[https://github.com/phdyang007/papers/raw/master/C18.pdf paper]\] 
   \[[https://github.com/phdyang007/papers/raw/master/C18S.pdf slides]\]
-  \[[https://github.com/phdyang007/xxxx code]\]
+  \[[https://github.com/phdyang007/dlhsd/tree/dct_as_conv code]\]
 
 - \[C17\] Hao Geng, *Haoyu Yang*, Lu Zhang, Jin Miao, Fan Yang, Xuan Zeng, Bei Yu,
  "Hotspot Detection via Attention-based Deep Layout Metric Learning", 
