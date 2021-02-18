@@ -84,19 +84,24 @@
 
 === Conference Papers
 
-- \[C20\] Xiaopeng Zhang, *Haoyu Yang*, Evangeline F.Y. Young,
+- \[C21\] Xiaopeng Zhang, *Haoyu Yang*, Evangeline F.Y. Young,
   "Attentional Transfer is All You Need: Technology-aware Layout Pattern Generation",
-   ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, July 11–15, 2021.
-  \[[https://github.com/phdyang007/papers/raw/master/C20.pdf paper]\] 
-  \[[https://github.com/phdyang007/papers/raw/master/C20S.pdf slides]\]
+   ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Dec 5–9, 2021.
+  \[[https://github.com/phdyang007/papers/raw/master/C21.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C21S.pdf slides]\]
   \[[https://github.com/phdyang007/xxx code]\]
 
-- \[C19\] Yifeng Xiao, Miaodi Su, *Haoyu Yang*, Jianli Chen, Jun Yu, Bei Yu,
+- \[C20\] Yifeng Xiao, Miaodi Su, *Haoyu Yang*, Jianli Chen, Jun Yu, Bei Yu,
   "Low-Cost Lithography Hotspot Detection with Active Entropy Sampling and Model Calibration",
-   ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, July 11–15, 2021.
+   ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Dec 5–9, 2021.
+  \[[https://github.com/phdyang007/papers/raw/master/C20.pdf paper]\] 
+  \[[https://github.com/phdyang007/papers/raw/master/C20S.pdf slides]\]
+
+- \[C19\] Wei Li, Guojin Chen, *Haoyu Yang*, Ran Chen, Bei Yu, 
+   "Learning Point Clouds in EDA", 
+   ACM International Symposium on Physical Design (ISPD), Mar 21-24, 2021.
   \[[https://github.com/phdyang007/papers/raw/master/C19.pdf paper]\] 
   \[[https://github.com/phdyang007/papers/raw/master/C19S.pdf slides]\]
-
 
 - \[C18\] *Haoyu Yang*, Shifan Zhang, Kang Liu, Siting Liu, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young,
   "Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method",
